@@ -6,7 +6,7 @@ In case you don't know, Github is one of many different platforms that programme
 
 ## So what now?
 
-The first part is easy, you create a Github account.  The next step is to install git on your system.  Once you have git installed on your system, you can either use the command line or a GUI.  It's okay to use a GUI at first, but you may want to look into learning the command line so that you can have more control over a project's files.
+The first part is easy, you create a Github account.  The next step is to install [git](http://rogerdudler.github.io/git-guide/) on your system.  Once you have git installed on your system, you can either use the command line or a GUI.  It's okay to use a GUI at first, but you may want to look into learning the command line so that you can have more control over a project's files.
 
 If you want to use a gui, you can use [Github Desktop](https://desktop.github.com/), it's made by the same people that made github and is built on [electron](https://electronjs.org/), a really cool technology for making apps with web code.  Besides that, I've heard __really__ good things about a program called [GitKraken](https://www.gitkraken.com/).
 
@@ -25,7 +25,7 @@ __Markdown Preview__ | Github created a shorthand way of creating documents that
 
 ## Phew! Now what?
 
-Now that we are up and ready, it's time to create the project. I went ahead and created the basic folder structure for us.  It's basically two mini-projects in one: the website and the app, hence the two main folders.  
+Now that we are up and ready, it's time to create the project. I went ahead and created the basic folder structure for us.  It's basically two mini-projects in one: the website and the app, ~~hence the two main folders~~(the app folder wont sync since it's empty).
 
 You can scroll up and hit the issues button to see the different tasks we need to accomplish.  The only one there now is about the project, so we may discuss what exactly we want to do.  I'll add more to the list after we make a few more decisions.
 
